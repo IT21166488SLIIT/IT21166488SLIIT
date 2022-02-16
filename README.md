@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Diwan Sachidu</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="29.14px" width="30px">, I'm Diwan Sachidu</h1>
 <h3 align="center">I'm interesting on new technologies, coding and web development and I'm from Sri Lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 
 - 🔭 I’m currently working on [Emdownloader](https://emdownloader.com/)
 
