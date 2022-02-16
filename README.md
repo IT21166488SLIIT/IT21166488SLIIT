@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21166488sliit&show_icons=true&locale=en&layout=compact" alt="it21166488sliit" /></p>
 
-<p>&nbsp;<img align="right" width="450px" height="170px" src="https://github-readme-stats.vercel.app/api?username=it21166488sliit&show_icons=true&locale=en" alt="it21166488sliit" /></p>
+<p>&nbsp;<img align="right" width="450px" height="165px" src="https://github-readme-stats.vercel.app/api?username=it21166488sliit&show_icons=true&locale=en" alt="it21166488sliit" /></p>
