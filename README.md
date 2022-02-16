@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Diwan Sachidu</h1>
 <h3 align="center">I'm interesting on new technologies, coding and web development and I'm from Sri Lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -22,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21166488sliit&show_icons=true&locale=en&layout=compact" alt="it21166488sliit" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=it21166488sliit&show_icons=true&locale=en" alt="it21166488sliit" /></p>
+<p>&nbsp;<img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=it21166488sliit&show_icons=true&locale=en" alt="it21166488sliit" /></p>
