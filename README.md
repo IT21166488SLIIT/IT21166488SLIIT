@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="right" width="450px" height="165px" src="https://github-readme-stats.vercel.app/api?username=it21166488sliit&show_icons=true&locale=en" alt="it21166488sliit" /></p><br><br><hr>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=it21166488sliit)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it21166488sliit&" alt="it21166488sliit" /></p>
